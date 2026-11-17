@@ -1,0 +1,5 @@
+outs:
+- md5: 7755f5e2d63a998e0332f24b3826d50f
+  size: 802
+  hash: md5
+  path: spoilage_review.csv

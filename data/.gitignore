@@ -1,3 +1,6 @@
 /train.csv
 /later.csv
 /holdout_features.csv
+/train_clean.csv
+/power_cut_review.csv
+/spoilage_review.csv

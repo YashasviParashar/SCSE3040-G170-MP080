@@ -1,0 +1,5 @@
+outs:
+- md5: ec2c8ced749fec2a14e97038aacdab54
+  size: 9629
+  hash: md5
+  path: power_cut_review.csv
