@@ -60,3 +60,20 @@ monitoring:
   mae_v1_on_check: null    # v1 on the last 30% of later.csv (by date)
   mae_v2_on_check: null    # v2 on the same rows
   decision: null           # promote or keep
+
+
+data_quality:
+  total_records: 1000
+  total_columns: 12
+  missing_values: 0
+  duplicate_rows: 0
+
+issues:
+  inconsistent_crop_categories: 18
+  spoilage_above_100: 9
+  invalid_power_cut_records: 135
+
+recommendations:
+  - Standardize crop names
+  - Investigate spoilage values above 100
+  - Investigate power cuts exceeding storage duration
