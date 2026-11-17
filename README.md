@@ -1,5 +1,5 @@
 
-# SCSE3040 MLOps Mini Project
+## SCSE3040 MLOps Mini Project
 
 ## Group Details
 - Group ID: G170
